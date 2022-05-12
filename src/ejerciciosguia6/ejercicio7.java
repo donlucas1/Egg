@@ -11,30 +11,26 @@ import java.util.Scanner;
  *
  * @author lucas
  */
-public class ejercicio6 {
+public class ejercicio7 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
-        int numero;
-        System.out.println("Escriba un numero");
-        numero = leer.nextInt();
-        
-        if(numero%2 == 0){
-            System.out.println("El numero " + numero+ " es par");
+        String frase;
+        System.out.println("Escriba una palabra");
+        frase = leer.nextLine();
+        if (frase.equals("eureka")){
+            System.out.println("correcto");
         }else{
-                    System.out.println("El numeor es impar");
-                    }
-            
-        } 
+            System.out.println("incorrecto");
+        }
+         
         
         
         
         
-        
-        // TODO code application logic here
     }
     
-
+}
