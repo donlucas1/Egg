@@ -31,14 +31,5 @@ public class ejercicio9 {
         }
          // TODO code application logic here
     }
-          
-        
+}         
 
-// TODO code application logic here
-
-    private static char charAt(int i) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    }
-    
-}
