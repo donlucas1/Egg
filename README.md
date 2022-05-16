@@ -57,10 +57,7 @@ incorrectas recibidas. Para resolver el ejercicio deberá investigar cómo se ut
 siguientes funciones de Java Substring(), Length(), equals().
 13. Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”. Por ejemplo, si el
 cuadrado tiene 4 elementos por lado se deberá dibujar lo siguiente:
-* * * *
-*     *
-*     *
-* * * *
+
 
 Vectores y Matrices en Java
 
