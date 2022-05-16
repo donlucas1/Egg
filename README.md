@@ -25,7 +25,7 @@ Nota: investigar la función Lenght() en Java.
 es una ‘A’. Si la primera letra es una ‘A’, se deberá de imprimir un mensaje por pantalla que
 diga “CORRECTO”, en caso contrario, se deberá imprimir “INCORRECTO”. Nota: investigar
 la función Substring y equals() de Java.
-42
+
 Bucles y sentencias de salto break y continue
 10. Escriba un programa en el cual se ingrese un valor límite positivo, y a continuación solicite
 números al usuario hasta que la suma de los números introducidos supere el límite inicial.
@@ -57,10 +57,10 @@ siguientes funciones de Java Substring(), Length(), equals().
 13. Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”. Por ejemplo, si el
 cuadrado tiene 4 elementos por lado se deberá dibujar lo siguiente:
 * * * *
-* *
-* *
+*     *
+*     *
 * * * *
-43
+
 Vectores y Matrices en Java
 14. Crea una aplicación que a través de una función nos convierta una cantidad de euros
 introducida por teclado a otra moneda, estas pueden ser a dólares, yenes o libras. La
