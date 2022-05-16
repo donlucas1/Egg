@@ -27,16 +27,17 @@ diga “CORRECTO”, en caso contrario, se deberá imprimir “INCORRECTO”. No
 la función Substring y equals() de Java.
 
 Bucles y sentencias de salto break y continue
+
 10. Escriba un programa en el cual se ingrese un valor límite positivo, y a continuación solicite
 números al usuario hasta que la suma de los números introducidos supere el límite inicial.
 11. Realizar un programa que pida dos números enteros positivos por teclado y muestre por
 pantalla el siguiente menú:
 MENU
-1. Sumar
-2. Restar
-3. Multiplicar
-4. Dividir
-5. Salir
+a. Sumar
+b. Restar
+c. Multiplicar
+d. Dividir
+e. Salir
 Elija opción:
 El usuario deberá elegir una opción y el programa deberá mostrar el resultado por pantalla
 y luego volver al menú. El programa deberá ejecutarse hasta que se elija la opción 5.
